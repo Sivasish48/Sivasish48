@@ -23,9 +23,10 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sivasish48&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=en&hide_border=false&order=1" height="150" alt="GitHub Stats Graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sivasish48&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=false&order=2" height="150" alt="Top Languages Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sivasish48&show_icons=true&count_private=true&theme=graywhite&cache_seconds=7200" height="150" alt="GitHub Stats Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sivasish48&layout=compact&langs_count=5&theme=graywhite&cache_seconds=7200" height="150" alt="Top Languages Graph" />
 </div>
+
 
 <h2 align="left">Find Me</h2>
 <p align="left">
