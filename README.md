@@ -1,5 +1,5 @@
 <h1 align="left">Hello , I'm Sivasish Praharaj</h1>
-<p align="left"> I Started coding in 2021, I'm a passionate developer skilled in modern web technologies.</p>
+<p align="left"> I have been coding in 2021, I'm a passionate developer skilled in modern web technologies.</p>
 
 <h2 align="left">Tech Stack</h2>
 <p align="left">
